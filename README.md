@@ -1,2 +1,5 @@
 # hello-world
-just making myself familiar with Github
+Hello, world of CS. I am in.
+
+Good luck,
+Fellows
